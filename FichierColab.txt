@@ -1,0 +1,11 @@
+Projet Essai 3.ipynb
+# Code pour TF IDF
+https://colab.research.google.com/drive/19YBvB681LT-Ma4ny0KmL1qcqy3VOelew?usp=sharing
+
+Projet 1 nbcgTop=5.ipynb
+# Code BM25
+https://colab.research.google.com/drive/1Si8wpWJvh9ykJ9VTi3dJsgtzovkr9Fkz?usp=sharing
+
+Projet 1 word2vec.ipynb
+# Code Word2Vec + BM25
+https://colab.research.google.com/drive/1_b9FbhC9dnGOAAv3dL8SLBUiCIIp7gu5?usp=sharing
